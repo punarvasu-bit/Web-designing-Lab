@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <h1 align="center"> Student Registration form</h1>
+    <hr>
+    <form action="submit.html" method="post">
+
+    
+        <p>
+        <label>Full Name:</label>
+        <input type="text" name=" Full Name" placeholder="Enter your full name">
+        </p>
+
+        <p>
+        <label>Email:</label>
+        <input type="text" name="Email" placeholder="Enter valid email adress">
+        </p>
+       
+        <p>
+        <label>Password:</label>
+        <input type="password" name="Password" placeholder="Enter password">
+        </p>
+
+        <p>
+        <label>Gender:</label>
+        <input type="radio" name="Gender">Male
+        <input type="radio" name="Gender">Female
+        <input type="radio" name="Gender">Other
+        </p>
+        
+        
+        <p>
+        <label>Course:</label>
+        <select name="Course">
+            <option>Btech</option>
+            <option>BCA</option>
+            <option>Mtech</option>
+        </select>
+        </p>
+
+        <p>
+        <label>Contact number:</label>
+        <input type="number" name="Contact number" placeholder="Enter phone number">
+        </p>
+
+        <p>
+        <label>Adress:</label>
+        <textarea name="Special Request" rows="4" cols="40" placeholder="Enter your adress"></textarea>
+        </p>
+        
+        <p>
+        <input type="Submit" value="Register">
+        <input type="Reset" value="Clear">
+        </p>
+
+    </form>
+    <hr>
+    <p align="center">&copy;2026 Student Registration Portal</p>
+</html>
