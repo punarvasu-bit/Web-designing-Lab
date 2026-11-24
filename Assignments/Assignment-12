@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<table border="1" cellpadding="5">
+        <!-- Table Caption -->
+        <caption>Student Marks</caption>
+
+        <!-- Table Header Section -->
+        <thead>
+            <tr>
+                <th>Roll</th>
+                <th>Name</th>
+                <th>Marks</th>
+            </tr>
+        </thead>
+
+        <!-- Table Body Section -->
+        <body>
+            <tr>
+                <td>1</td>
+                <td>Aman</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Riya</td>
+                <td>92</td>
+            </tr>
+        </body>
+
+        <!-- Table Footer Section -->
+        <tfoot>
+            <tr>
+                <td colspan="2">Average</td>
+                <td>88.5</td>
+            </tr>
+        </tfoot>
+    </table>
+<html>
+
+
+
