@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <h2>Personal Details</h2>
+    <form>
+    
+        <p>
+        <label>Name:</label>
+        <input type="text" name="Name">
+        </p>
+
+        <p>
+        <label>Email:</label>
+        <input type="text" name="Roll no.">
+        </p>
+
+        <p>
+        <label>Password:</label>
+        <input type="password" name="Password">
+        </p>
+
+        <p>
+        <label>Gender:</label>
+        <input type="radio" name="Gender">Male
+        <input type="radio" name="Gender">Female
+        </p>
+
+        <p>
+        <label>Hobbies:</label>
+        <input type="checkbox" name="Reading">Male
+        <input type="checkbox" name="Coding">Female
+        </p>
+
+        <p> 
+        <label for="dob">DOB:</label>
+       <input type="text" id="dob" name="dob">
+       </p>
+</form>
+</html>
