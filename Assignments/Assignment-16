@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<form>
+<p>
+        <label>Course:</label>
+        <select>
+            <option>Btech</option>
+            <option>BSC</option>
+            <option>Mtech</option>
+            <option>BCA</option>
+        </select>
+    </p>
+        <p>
+        <label>Feedback:</label>
+        <textarea name="Feedback" rows="4" cols="40"></textarea>
+</p>
+        <p>
+        <input type="Submit" value="Submit">
+        <input type="Reset" value="Reset">
+        <input type="button" value="Click me">
+        </p>
+</form>
+</html>
