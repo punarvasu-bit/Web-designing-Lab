@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+
+    <p><b>Image</b></p>
+    <img src="https://images.pexels.com/photos/31085765/pexels-photo-31085765.jpeg" alt="College campus" width="150" height="150">
+
+    <!-- Video Section -->
+    <p><b>Video</b></p>
+    <video width="200" height="150" controls>
+        <source src="https://www.pexels.com/download/video/7683855/" type="video/mp4">
+        
+    </video>
+
+    <!-- Audio Section -->
+    <p><b>Audio</b></p>
+    <audio controls>
+        <source src="https://koshalworld.com/files/download/id/29016" type="audio/mpeg">
+        
+    </audio>
+
+    <!-- YouTube Video Section -->
+    <p><b>YouTube</b></p>
+    <iframe width="300" height="150" src="https://www.youtube.com/embed/BRLIkhW-Z6A" title="YouTube video" frameborder="0" allowfullscreen></iframe>
+</html>
+
+
+
+
